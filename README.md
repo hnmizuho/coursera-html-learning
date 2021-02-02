@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+## 如果没有index.html就会使用这个，使用jekyll来渲染markdown。
 You can use the [editor on GitHub](https://github.com/hnmizuho/coursera-html-learning/edit/my-page/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
